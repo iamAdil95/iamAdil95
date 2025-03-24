@@ -21,7 +21,7 @@ I come from Earth-199999
 
 Connect with Me :
 <h3> 🌟 Connect with Me </h3>
-<a href="www.linkedin.com/in/md-adil-imam" target="_blank">
+<a href="https://www.linkedin.com/in/md-adil-imam/" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 </a>
 
