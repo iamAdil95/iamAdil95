@@ -7,6 +7,12 @@ Lifelong Learner
 , Eager to Learn,
 and Ready to Build!
 
-🔹 Tech Stack: Java ☕ | Python 🐍 | DSA 📊 | Web Dev 🌐
-🔹 Currently Exploring: Competitive Programming
-🔹 Fun Fact: I come from Earth-199999 (yes, the Marvel Cinematic Universe 🌌)
+🔹 Tech Stack: Java ☕ 
+| Python 🐍 |
+DSA 📊 |
+Web Dev 🌐
+🔹 Currently Exploring:
+Competitive Programming
+🔹 Fun Fact:
+I come from Earth-199999 
+(yes, the Marvel Cinematic Universe 🌌)
