@@ -1,17 +1,8 @@
 
 👋 Hey there! I'm Md Adil Imam
 
- BTech Student |
-
-Java & Python Enthusiast |
-
-Lifelong Learner
-
-Energetic to Code
-
-, Eager to Learn,
-
-and Ready to Build!
+ BTech Student | Java & Python Enthusiast | Lifelong Learner | Energetic to Code  & Eager to Learn
+    Ready to Build!
 
 🔹 Tech Stack: Java 
 | 
