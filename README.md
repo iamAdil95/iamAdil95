@@ -1,23 +1,8 @@
 
 👋 Hey there! I'm Md Adil Imam
 
- B Tech 2nd Year | Java & Python Enthusiast | Lifelong Learner | Energetic to Code  & Eager to Learn
-    Ready to Build!
-
-🔹 Tech Stack: Java 
-| 
-Python 🐍 
-|
-DSA 📊 
-|
-Web Dev 🌐
-
-🔹 Currently Exploring:
-Competitive Programming
-
-🔹 Fun Fact:
 I come from Earth-199999 
-(yes, the Marvel Cinematic Universe 🌌)
+(yes, the Marvel Universe )
 
 <h3>  Connect with Me : </h3>
 <a href="https://www.linkedin.com/in/md-adil-imam/" target="_blank">
