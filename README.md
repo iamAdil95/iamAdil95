@@ -16,9 +16,7 @@
   <img src="https://img.icons8.com/color/48/000000/discord--v2.png" alt="Discord" style="margin-left: 10px;" />
 </a>
 
-<a href="mailto:mdadilimam03@gmail.com?subject=Hello from GitHub!" target="_blank" title="Send me an email">
-  <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" style="margin-left: 10px;" />
-</a>
+
 
  
   <!-- Tech Stack -->
