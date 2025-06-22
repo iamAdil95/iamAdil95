@@ -6,18 +6,21 @@
   
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajJkZjRib2gxNzZ3eG0xNzd1N21iN3pzdTB3bDZ6cjhnZGs2ZmtxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WC8Ed8TSRVGnhcbY0v/giphy.gif" alt="Profile GIF" width="120" style="border-radius: 50%;" />
 
-  
   <h3>🌐 Connect with Me:</h3>
-  <a href="https://www.linkedin.com/in/md-adil-imam/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
-  </a>
-  <a href="mdadilimam03@gmail.com" target="_blank" title="Email Me">
-    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail"/>
-  </a>
-  <a href="https://discord.com/users/761939696175546431" target="_blank" title="Join me on Discord">
-    <img src="https://img.icons8.com/color/48/000000/discord--v2.png" alt="Discord"/>
-  </a>
 
+<a href="https://www.linkedin.com/in/md-adil-imam/" target="_blank" title="Connect on LinkedIn">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
+</a>
+
+<a href="https://discord.com/users/761939696175546431" target="_blank" title="Join me on Discord">
+  <img src="https://img.icons8.com/color/48/000000/discord--v2.png" alt="Discord" style="margin-left: 10px;" />
+</a>
+
+<a href="mailto:mdadilimam03@gmail.com?subject=Hello from GitHub!" target="_blank" title="Send me an email">
+  <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" style="margin-left: 10px;" />
+</a>
+
+ 
   <!-- Tech Stack -->
   <h3>💻 Tech Stack:</h3>
   <p>Languages & tools I've been exploring:</p>
