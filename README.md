@@ -35,6 +35,9 @@
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
     <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
     <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/>
+    <img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="Material UI"/>
+    <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS"/>
+
   </p>
 
   <p>🔍 Currently practicing DSA in Java and Exploring Web Development! </p>
