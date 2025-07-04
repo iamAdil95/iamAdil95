@@ -2,7 +2,8 @@
 
 <div>
   <h1> Hey there! I'm Md Adil Imam 🪄 </h1>
-  <p>I come from Hogwarts School of Witchcraft and Wizardry (House: Hufflepuff)</p>
+  <p><p>My house? Hufflepuff. Loyal, kind, and always ready to code 🖤💛</p>
+</p>
 </div>
 
   
