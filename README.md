@@ -2,7 +2,8 @@
 
 <div>
   <h1> Hey there! I'm Md Adil Imam 🪄 </h1>
-  <p><p>My house? Hufflepuff. Loyal, kind, and always ready to code 🖤💛</p>
+  <p><p><p>I'm a proud Hufflepuff — dedicated, patient, and always ready to code 💛</p>
+</p>
 </p>
 </div>
 
