@@ -1,7 +1,9 @@
 
+
 <div>
-  <h1>👋 Hey there! I'm Md Adil Imam</h1>
-  <p>I come from Earth-199999 (yes, the Marvel Universe 🦸‍♂️)</p>
+  <h1> Hey there! I'm Md Adil Imam 🪄 </h1>
+  <p>I come from Hogwarts School of Witchcraft and Wizardry (House: Hufflepuff)</p>
+</div>
 
   
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajJkZjRib2gxNzZ3eG0xNzd1N21iN3pzdTB3bDZ6cjhnZGs2ZmtxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WC8Ed8TSRVGnhcbY0v/giphy.gif" alt="Profile GIF" width="120" style="border-radius: 50%;" />
