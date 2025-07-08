@@ -1,11 +1,12 @@
 
-
 <div>
-  <h1> Hey there! I'm Md Adil Imam 🪄 </h1>
-  <p><p><p> A proud Hufflepuff - dedicated, patient, and always ready to code 💛</p>
-</p>
-</p>
+  <h1>Hey there! I'm Md Adil Imam 🪄</h1>
+  <p>
+    A proud Hufflepuff—dedicated, patient, and always ready to code.  
+    I am passionate about Java, Python, and web development.
+  </p>
 </div>
+
 
   
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajJkZjRib2gxNzZ3eG0xNzd1N21iN3pzdTB3bDZ6cjhnZGs2ZmtxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WC8Ed8TSRVGnhcbY0v/giphy.gif" alt="Profile GIF" width="120" style="border-radius: 50%;" />
@@ -39,7 +40,6 @@
     <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS"/>
 
   </p>
-
-  <p>🔍 Currently practicing DSA in Java and Exploring Web Development! </p>
+  <p> Currently practicing DSA in Java and Exploring Web Development! </p>
   <p>Looking Forward to Exciting Learning Journey and Making a Mark in Life</p>
 </div>
