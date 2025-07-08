@@ -7,8 +7,8 @@
   </p>
 
   <p>
-    I’m passionate about <strong>Java</strong>, <strong>Python</strong>, and <strong>web development</strong>.  
-    I enjoy building clean, responsive user interfaces and solving real-world problems through code.
+   I am passionate about <strong>Java</strong> (with a focus on DSA), <strong>Python</strong> (exploring AI/ML and data science), and <strong>web development</strong>.
+  I enjoy building clean, responsive user interfaces and solving real-world problems through code.
   </p>
 
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajJkZjRib2gxNzZ3eG0xNzd1N21iN3pzdTB3bDZ6cjhnZGs2ZmtxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WC8Ed8TSRVGnhcbY0v/giphy.gif" alt="Profile GIF" width="120" style="border-radius: 50%; margin-top: 10px;" />
@@ -38,7 +38,7 @@
   </p>
 
   <p>
-    🚀 Currently practicing DSA in Java and exploring modern web development.  
+     Currently practicing DSA in Java and exploring modern web development.  
     Looking forward to an exciting learning journey and making a meaningful impact in tech!
   </p>
 
